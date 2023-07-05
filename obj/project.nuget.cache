@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "itG2WKw7eA7nc8sTqZNrS4UlYs36+F56HLpxmAv7DtKyexJJ4qzcURp6imnzcZqE2ic2WvuY9HYulakJA6FX4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\source\\repos\\web_clinica\\web_clinica\\web_clinica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\bootstrap\\5.0.1\\bootstrap.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
